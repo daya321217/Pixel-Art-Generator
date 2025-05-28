@@ -20,3 +20,5 @@ A fun and interactive Pixel Art Generator to unleash your creativity! Adjust the
 1. Clone this repository:
    ```bash
    git clone https://github.com/daya321217/Pixel-Art-Generator.git
+
+Adding these lines cuz I need to commit these and take a screenshot of a pull request for source code lab file. Sorry for any problem that this causes. 
